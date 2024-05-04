@@ -1,6 +1,6 @@
 <?php 
-$to = 'chauhanjeet3@gmail.com'; // Put in your email address here
-$subject  = "Fixit Template Appointment Form"; // The default subject. Will appear by default in all messages. Change this if you want.
+$to = `gamer24shaikh@gmail.com`; // Put in your email address here
+$subject  = "Appointment Form"; // The default subject. Will appear by default in all messages. Change this if you want.
 
 // User info (DO NOT EDIT!)
 $fname = stripslashes($_REQUEST['fname']); // sender's name
